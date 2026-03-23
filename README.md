@@ -1,6 +1,6 @@
 # Employee Admin Portal API
 
-## Project Description
+## Project Description - Code Descriptors and Functions found in files necessary. 
 
 The Employee Admin Portal API is a RESTful web service built using **ASP.NET Core** and **Entity Framework Core**. The purpose of this application is to provide a simple and efficient way to manage employee data, including creating, viewing, updating, and deleting employee records.
 
