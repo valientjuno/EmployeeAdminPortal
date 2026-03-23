@@ -1,5 +1,6 @@
-﻿namespace EmployeeAdminPortal.Models
+namespace EmployeeAdminPortal.Models
 {
+    // Data Transfer Object (DTO) used for updating an existing employee's information
     public class UpdateEmployeeDto
     {
         public required string Name { get; set; }
