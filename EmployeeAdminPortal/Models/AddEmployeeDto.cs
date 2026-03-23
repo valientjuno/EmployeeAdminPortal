@@ -1,5 +1,6 @@
-﻿namespace EmployeeAdminPortal.Models
+namespace EmployeeAdminPortal.Models
 {
+    // Data Transfer Object (DTO) used for adding a new employee
     public class AddEmployeeDto
     {
         public required string Name { get; set; }
